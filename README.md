@@ -6,7 +6,7 @@ A feature-rich terminal-based fishing game with RPG elements, written in Python.
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Version](https://img.shields.io/badge/version-0.4.2-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
-![Code Size](https://img.shields.io/badge/code%20size-~50KB-informational.svg)
+![Code Size](https://img.shields.io/badge/code%20size-~110KB-informational.svg)
 ![Fish Species](https://img.shields.io/badge/fish%20species-150+-success.svg)
 ![Locations](https://img.shields.io/badge/locations-7-blueviolet.svg)
 ![Achievements](https://img.shields.io/badge/achievements-33-yellow.svg)
@@ -496,5 +496,6 @@ You gained 5000 XP! (+60% difficulty bonus)
 ---
 
 **Happy Fishing! 🎣**
+
 
 *Remember: The biggest fish are always the ones that got away... unless you're using Master Bait!*
